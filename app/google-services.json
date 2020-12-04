@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882661218440",
+    "firebase_url": "https://parcialecoapps.firebaseio.com",
+    "project_id": "parcialecoapps",
+    "storage_bucket": "parcialecoapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882661218440:android:286e630a2e513731e4673d",
+        "android_client_info": {
+          "package_name": "com.example.parcialandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882661218440-9bc6fe1v6th8hn65e09oi07qoouac8ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parcialandroid",
+            "certificate_hash": "0c2225e32ff385fb2ec89c235dc13eb9e676617c"
+          }
+        },
+        {
+          "client_id": "882661218440-jpchqlh88b51rp1clnam8liv2nvkingc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzj4CnHGlJts_SXe7eEttaEooFSUudPdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882661218440-jpchqlh88b51rp1clnam8liv2nvkingc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
